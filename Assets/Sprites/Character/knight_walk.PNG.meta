@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: bff08d842ed6c9b44b6514a46726e7e4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight_walk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 388
+        width: 75
+        height: 143
+      alignment: 9
+      pivot: {x: .511417925, y: .656264305}
+    - name: knight_walk_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 388
+        width: 78
+        height: 129
+      alignment: 9
+      pivot: {x: .463659614, y: .659714818}
+    - name: knight_walk_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 388
+        width: 45
+        height: 137
+      alignment: 9
+      pivot: {x: .509972155, y: .64371264}
+    - name: knight_walk_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 388
+        width: 75
+        height: 144
+      alignment: 9
+      pivot: {x: .517457664, y: .67147994}
+    - name: knight_walk_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 74
+        height: 143
+      alignment: 9
+      pivot: {x: .485956043, y: .667624533}
+    - name: knight_walk_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 198
+        width: 80
+        height: 132
+      alignment: 9
+      pivot: {x: .493023098, y: .660598278}
+    - name: knight_walk_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 198
+        width: 44
+        height: 142
+      alignment: 9
+      pivot: {x: .512684882, y: .656810045}
+    - name: knight_walk_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 198
+        width: 74
+        height: 144
+      alignment: 9
+      pivot: {x: .501819909, y: .690116882}
+    - name: knight_walk_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 76
+        height: 144
+      alignment: 9
+      pivot: {x: .509115994, y: .665597677}
+    - name: knight_walk_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 71
+        height: 138
+      alignment: 9
+      pivot: {x: .442714423, y: .687859297}
+    - name: knight_walk_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 72
+        height: 137
+      alignment: 9
+      pivot: {x: .443510264, y: .684989214}
+    - name: knight_walk_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 10
+        width: 72
+        height: 135
+      alignment: 9
+      pivot: {x: .440251231, y: .679822385}
+  spritePackingTag: 
+  userData: 

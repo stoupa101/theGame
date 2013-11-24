@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 5536508fed6aa824eab5eb48a81cf1c4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: swan_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 607
+        width: 230
+        height: 153
+      alignment: 9
+      pivot: {x: .663937032, y: .798875988}
+    - name: swan_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 663
+        width: 235
+        height: 97
+      alignment: 9
+      pivot: {x: .660449207, y: .648870409}
+    - name: swan_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 692
+        width: 240
+        height: 80
+      alignment: 9
+      pivot: {x: .653763592, y: .319494635}
+    - name: swan_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 427
+        width: 241
+        height: 125
+      alignment: 9
+      pivot: {x: .676427484, y: .211191162}
+    - name: swan_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 427
+        width: 236
+        height: 166
+      alignment: 9
+      pivot: {x: .673366606, y: .166536078}
+    - name: swan_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 427
+        width: 236
+        height: 121
+      alignment: 9
+      pivot: {x: .669967413, y: .241424561}
+    - name: swan_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 252
+        width: 230
+        height: 76
+      alignment: 9
+      pivot: {x: .660449207, y: .383885026}
+    - name: swan_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 219
+        width: 231
+        height: 101
+      alignment: 9
+      pivot: {x: .659754515, y: .642974555}
+  spritePackingTag: 
+  userData: 

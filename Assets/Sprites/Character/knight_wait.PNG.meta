@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 46be405b71fa317489d04287b315ce30
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight_wait_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 389
+        width: 72
+        height: 136
+      alignment: 9
+      pivot: {x: .432809949, y: .675761282}
+    - name: knight_wait_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 388
+        width: 72
+        height: 138
+      alignment: 9
+      pivot: {x: .431845993, y: .681473434}
+    - name: knight_wait_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 388
+        width: 72
+        height: 137
+      alignment: 9
+      pivot: {x: .425472051, y: .685572743}
+    - name: knight_wait_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 388
+        width: 72
+        height: 140
+      alignment: 9
+      pivot: {x: .42860201, y: .665995359}
+    - name: knight_wait_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 388
+        width: 72
+        height: 155
+      alignment: 9
+      pivot: {x: .432106018, y: .603901744}
+    - name: knight_wait_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 388
+        width: 77
+        height: 174
+      alignment: 9
+      pivot: {x: .410356015, y: .536202431}
+    - name: knight_wait_6
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 388
+        width: 62
+        height: 137
+      alignment: 9
+      pivot: {x: .491379291, y: .680341482}
+    - name: knight_wait_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 198
+        width: 71
+        height: 137
+      alignment: 9
+      pivot: {x: .431242436, y: .678211987}
+    - name: knight_wait_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 198
+        width: 72
+        height: 137
+      alignment: 9
+      pivot: {x: .441411763, y: .680073559}
+    - name: knight_wait_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 198
+        width: 72
+        height: 137
+      alignment: 9
+      pivot: {x: .436593175, y: .68536222}
+    - name: knight_wait_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 198
+        width: 85
+        height: 137
+      alignment: 9
+      pivot: {x: .341363519, y: .683053315}
+    - name: knight_wait_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 198
+        width: 85
+        height: 137
+      alignment: 9
+      pivot: {x: .360213697, y: .683277011}
+    - name: knight_wait_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 198
+        width: 83
+        height: 141
+      alignment: 9
+      pivot: {x: .354138464, y: .663893223}
+    - name: knight_wait_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 198
+        width: 84
+        height: 169
+      alignment: 9
+      pivot: {x: .345792502, y: .554261684}
+    - name: knight_wait_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 85
+        height: 150
+      alignment: 9
+      pivot: {x: .365218669, y: .624377906}
+    - name: knight_wait_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 8
+        width: 85
+        height: 137
+      alignment: 9
+      pivot: {x: .365218401, y: .688299298}
+    - name: knight_wait_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 84
+        height: 137
+      alignment: 9
+      pivot: {x: .36516571, y: .679311216}
+    - name: knight_wait_17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 8
+        width: 85
+        height: 137
+      alignment: 9
+      pivot: {x: .346098065, y: .682427347}
+    - name: knight_wait_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 85
+        height: 137
+      alignment: 9
+      pivot: {x: .371592432, y: .682787061}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 83e4a51954dcd0543bb5fecf75bedce4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight_run_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 313
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: knight_run_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 302
+        width: 97
+        height: 135
+      alignment: 9
+      pivot: {x: .627859533, y: .637804031}
+    - name: knight_run_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 300
+        width: 95
+        height: 137
+      alignment: 9
+      pivot: {x: .635572255, y: .642755866}
+    - name: knight_run_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 152
+        width: 60
+        height: 136
+      alignment: 9
+      pivot: {x: .596267164, y: .630085528}
+    - name: knight_run_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 153
+        width: 80
+        height: 136
+      alignment: 9
+      pivot: {x: .631178677, y: .647313058}
+    - name: knight_run_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 159
+        width: 87
+        height: 124
+      alignment: 9
+      pivot: {x: .55482924, y: .623100281}
+    - name: knight_run_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 97
+        height: 130
+      alignment: 9
+      pivot: {x: .618023992, y: .657781482}
+    - name: knight_run_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 95
+        height: 135
+      alignment: 9
+      pivot: {x: .613927722, y: .659004509}
+    - name: knight_run_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 86
+        height: 135
+      alignment: 9
+      pivot: {x: .544373631, y: .655471087}
+  spritePackingTag: 
+  userData: 

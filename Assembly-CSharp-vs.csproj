@@ -49,7 +49,15 @@
      <Compile Include="Assets\Scripts\BackgroundParallax.cs" />
      <Compile Include="Assets\Scripts\BackgroundPropSpawner.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\GameBehaivor.cs" />
+     <Compile Include="Assets\Scripts\Interfaces\GUIManager.cs" />
+     <Compile Include="Assets\Scripts\Networking\NetworkingClient.cs" />
      <Compile Include="Assets\Scripts\PlayerControl.cs" />
+     <Compile Include="Assets\Scripts\loadNextScene.cs" />
+     <Compile Include="Assets\Scripts\mainMenu.cs" />
+ <Reference Include="SmartFox2X">
+ <HintPath>Assets\plugins\SmartFox2X.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

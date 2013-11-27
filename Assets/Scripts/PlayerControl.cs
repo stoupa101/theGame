@@ -7,7 +7,7 @@ public class PlayerControl : MonoBehaviour {
 	public bool facingRight = true;
 
 	public float moveForce = 365f;
-	public float maxSpeed = 5f;
+	public float maxSpeed = 3f;
 
 	private float rndWait = 1f;
 	private Animator anim;
@@ -24,13 +24,20 @@ public class PlayerControl : MonoBehaviour {
 	
 	void Update () 
 	{
+
+		if (Input.GetButton("Sprint")) {
+			maxSpeed = 10f;
+			anim.SetInteger("Run", 1);
+		} else {
+			maxSpeed = 3f;
+			anim.SetInteger("Run", 0);
+		}
 		float h = Input.GetAxis ("Horizontal");
 		if (Mathf.Abs(h) == 0) {
 			anim.SetInteger("Wait", (int) rndWait);
 		}
 
 		anim.SetFloat ("Speed", Mathf.Abs (h));
-
 		if ( h * rigidbody2D.velocity.x < maxSpeed ) {
 			rigidbody2D.AddForce(Vector2.right * h * moveForce);
 		}
